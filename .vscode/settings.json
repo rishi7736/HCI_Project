@@ -1,0 +1,6 @@
+{
+    "dataworkspace.excludedProjects": [
+        "model/Legal Document/Legal Document.sqlproj",
+        "Legal_Documents/Legal_Documents.sqlproj"
+    ]
+}
